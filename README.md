@@ -2,6 +2,7 @@
 
 DataSet público disponibilizado: https://www.kaggle.com/zynicide/wine-reviews
 
-- Ingestão do arquivo .csv;
+- Ingestão de arquivo .csv (convervento em parquet); 
 - Tratamento dos dados;
-- Viewers e modelo simples.
+- Geração de Viewers e Plots;
+- Modelo simples de ML para apurar a acurácia de algumas variáveis.
